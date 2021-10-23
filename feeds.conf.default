@@ -9,4 +9,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git lienol https://github.com/Lienol/openwrt-package.git;main
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
-src-git luci-app-unblockneteasemusic https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic
+#src-git luci-app-unblockneteasemusic https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic
