@@ -24,4 +24,4 @@
 ###sed -i 's?36ce09224942d3ea846bbb4182a7ab3318e73251?6bd8c5a5e05de6031d053e19a9b7259494099dd0?' package/lean/UnblockNeteaseMusic/Makefile;
 ###sed -i 's?3ee29d3e52eb43ab294f62a2921cb8b1e4ee83395992a57c44e7c231fc6e310d?76d7f67086148c2a617c827021fc6167d6d53b509f920059b9351add6b82979c?' package/lean/UnblockNeteaseMusic/Makefile;
 ###
-git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package
+git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
